@@ -1,9 +1,9 @@
 <h1>Hi, I'm Tom</h1>
 <h3>A devops engineer from France</h3>
 
-- I’m currently working on [ipinfo.sh](https://ipinfo.sh/) and this [Granfana honeypot dashboard](https://grafana.rznet.fr/)
+- I’m currently working on [IPinfo.sh](https://ipinfo.sh/) and this [Granfana honeypot dashboard](https://grafana.rznet.fr/)
 
-- 👨‍All of my projects are available at [https://git.rznet.fr/](https://git.rznet.fr/)
+- All of my projects are available at [https://git.rznet.fr/](https://git.rznet.fr/)
 
 - I regularly write articles on [https://tchv.fr/](https://tchv.fr/)
 
